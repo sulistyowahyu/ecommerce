@@ -3,8 +3,20 @@
     <string name="login_cepat_dengan">Login Cepat Dengan</string>
     <string name="login_melalui_sms">Login Melalui SMS</string>
     <string name="lanjutkan_dengan_facebook">Lanjutkan dengan Facebook</string>
+
+    <!--untuk layout login-->
     <string name="login">Login</string>
     <string name="password">Password</string>
     <string name="email_telepon_username">Email/Telepon/Username</string>
     <string name="login_melalui_google">Login melalui Google</string>
+
+    <!--untuk layout register-->
+    <string name="register_nama_lengkap">Nama Lengkap</string>
+    <string name="register_username">ID Pengguna</string>
+    <string name="register_sandi">Sandi</string>
+    <string name="register_ulang_sandi">Ulangi sandi</string>
+    <string name="register_daftar_dengan">Daftar dengan</string>
+    <string name="register_google">Google</string>
+    <string name="register_facebook">Facebook</string>
+    <string name="register_btn_daftar">Daftar</string>
 </resources>
